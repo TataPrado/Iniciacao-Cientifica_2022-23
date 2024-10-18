@@ -6,5 +6,5 @@
 
 **Códigos utilizados**: Repositórios já existentes no GitHub e códigos autorais.
 
-**Relatório detalhado está em *Relatorio_Final_IC*, explicação melhor sobre motivação, discussões, resultados e bibliografias, além do fluxo de pensamento do projeto**
+Relatório detalhado está em *Relatorio_Final_IC*, no arquivo .md, explicação melhor sobre motivação, discussões, resultados e bibliografias, além do fluxo de pensamento do projeto
 	
